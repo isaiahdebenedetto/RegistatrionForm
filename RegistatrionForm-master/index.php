@@ -99,7 +99,7 @@
 </head>
 <body>
 <video autoplay muted loop id="myVideo" style="position: fixed; z-index: -5; min-width: 100%; min-height: 100%; ">
-    <source src="images/OMGBG4.mov" type="video/mp4">
+    <source src="images/OMGBG42.mov" type="video/mp4">
 </video>
 
 <div class="header">
